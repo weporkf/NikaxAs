@@ -1,0 +1,190 @@
+[
+  {
+    "property": {
+      "type": "3-комн квартира",
+      "address": {
+        "street": "Олимпийская улица, 10",
+        "village": "село Засечное",
+        "district": "Засечный сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440514"
+      },
+      "price_per_day": "3600 ₽",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "repair": "Дизайнерский",
+      "area": "64 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "2-комн квартира",
+      "address": {
+        "street": "Ленина улица, 15",
+        "village": "село Никольское",
+        "district": "Никольский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440520"
+      },
+      "price_per_day": "2800 ₽",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "repair": "Косметический",
+      "area": "45 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/183a/2b1e/5f62ea29df64beee1b7f6dd1d91a9446?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IUCSQuyPOhEVrF48FTS2CI4rMHVTSUIxTXQjV5C69PWOHYpwoS5FXF1hbpjC7xOnB9l06DFBGa4~ZgXj5N3CTG8A0612sfi4yevWMqd-LF33IR~0wXcEaKmIHDAAgdUslOMKcLEgIWQqf4jqzn3uuoQVm~ji0-WtbL1naEbIPEIm5aVXPAhOWdgekjyUwErCgdhYnPmQjf8eyCwMO79t7h-QrQ3M6w3675MXLIrcG0lI107BtIahQc8jwEzKT5tyuR3MXCPDG6jcgrQFJuSEAzbCIFSkTj-N1aN3vqwpF1Z~FGhqG-4ho3zp7FH72GpwnAwpzAiPJgwUDg2iIePifg__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "4-комн квартира",
+      "address": {
+        "street": "Советская улица, 5",
+        "village": "село Кондоль",
+        "district": "Кондольский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440530"
+      },
+      "price_per_day": "4500 ₽",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "repair": "Евроремонт",
+      "area": "85 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "Студия",
+      "address": {
+        "street": "Мира улица, 20",
+        "village": "село Богословка",
+        "district": "Богословский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440540"
+      },
+      "price_per_day": "2000 ₽",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "repair": "Дизайнерский",
+      "area": "30 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/183a/2b1e/5f62ea29df64beee1b7f6dd1d91a9446?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IUCSQuyPOhEVrF48FTS2CI4rMHVTSUIxTXQjV5C69PWOHYpwoS5FXF1hbpjC7xOnB9l06DFBGa4~ZgXj5N3CTG8A0612sfi4yevWMqd-LF33IR~0wXcEaKmIHDAAgdUslOMKcLEgIWQqf4jqzn3uuoQVm~ji0-WtbL1naEbIPEIm5aVXPAhOWdgekjyUwErCgdhYnPmQjf8eyCwMO79t7h-QrQ3M6w3675MXLIrcG0lI107BtIahQc8jwEzKT5tyuR3MXCPDG6jcgrQFJuSEAzbCIFSkTj-N1aN3vqwpF1Z~FGhqG-4ho3zp7FH72GpwnAwpzAiPJgwUDg2iIePifg__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "Дом",
+      "address": {
+        "street": "Пушкина улица, 8",
+        "village": "село Чемодановка",
+        "district": "Чемодановский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440550"
+      },
+      "price_per_day": "5000 ₽",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "repair": "Капитальный",
+      "area": "120 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "1-комн квартира",
+      "address": {
+        "street": "Садовая улица, 12",
+        "village": "село Ленино",
+        "district": "Ленинский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440560"
+      },
+      "price_per_day": "1500 ₽",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "repair": "Косметический",
+      "area": "35 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/183a/2b1e/5f62ea29df64beee1b7f6dd1d91a9446?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IUCSQuyPOhEVrF48FTS2CI4rMHVTSUIxTXQjV5C69PWOHYpwoS5FXF1hbpjC7xOnB9l06DFBGa4~ZgXj5N3CTG8A0612sfi4yevWMqd-LF33IR~0wXcEaKmIHDAAgdUslOMKcLEgIWQqf4jqzn3uuoQVm~ji0-WtbL1naEbIPEIm5aVXPAhOWdgekjyUwErCgdhYnPmQjf8eyCwMO79t7h-QrQ3M6w3675MXLIrcG0lI107BtIahQc8jwEzKT5tyuR3MXCPDG6jcgrQFJuSEAzbCIFSkTj-N1aN3vqwpF1Z~FGhqG-4ho3zp7FH72GpwnAwpzAiPJgwUDg2iIePifg__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "5-комн квартира",
+      "address": {
+        "street": "Центральная улица, 1",
+        "village": "село Новое",
+        "district": "Новосельский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440570"
+      },
+      "price_per_day": "6000 ₽",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "repair": "Евроремонт",
+      "area": "150 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "Коттедж",
+      "address": {
+        "street": "Лесная улица, 3",
+        "village": "село Лесное",
+        "district": "Лесной сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440580"
+      },
+      "price_per_day": "7000 ₽",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "repair": "Дизайнерский",
+      "area": "200 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/183a/2b1e/5f62ea29df64beee1b7f6dd1d91a9446?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IUCSQuyPOhEVrF48FTS2CI4rMHVTSUIxTXQjV5C69PWOHYpwoS5FXF1hbpjC7xOnB9l06DFBGa4~ZgXj5N3CTG8A0612sfi4yevWMqd-LF33IR~0wXcEaKmIHDAAgdUslOMKcLEgIWQqf4jqzn3uuoQVm~ji0-WtbL1naEbIPEIm5aVXPAhOWdgekjyUwErCgdhYnPmQjf8eyCwMO79t7h-QrQ3M6w3675MXLIrcG0lI107BtIahQc8jwEzKT5tyuR3MXCPDG6jcgrQFJuSEAzbCIFSkTj-N1aN3vqwpF1Z~FGhqG-4ho3zp7FH72GpwnAwpzAiPJgwUDg2iIePifg__"
+    }
+  },
+  {
+    "property": {
+      "type": "2-комн квартира",
+      "address": {
+        "street": "Кирова улица, 25",
+        "village": "село Старое",
+        "district": "Старосельский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440590"
+      },
+      "price_per_day": "3200 ₽",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "repair": "Косметический",
+      "area": "50 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
+
+    }
+  },
+  {
+    "property": {
+      "type": "Студия",
+      "address": {
+        "street": "Новая улица, 7",
+        "village": "село Новоселки",
+        "district": "Новосельский сельсовет",
+        "region": "Пензенский район",
+        "postal_code": "440600"
+      },
+      "price_per_day": "1800 ₽",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "repair": "Дизайнерский",
+      "area": "28 м.кв.",
+      "img": "https://s3-alpha-sig.figma.com/img/183a/2b1e/5f62ea29df64beee1b7f6dd1d91a9446?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IUCSQuyPOhEVrF48FTS2CI4rMHVTSUIxTXQjV5C69PWOHYpwoS5FXF1hbpjC7xOnB9l06DFBGa4~ZgXj5N3CTG8A0612sfi4yevWMqd-LF33IR~0wXcEaKmIHDAAgdUslOMKcLEgIWQqf4jqzn3uuoQVm~ji0-WtbL1naEbIPEIm5aVXPAhOWdgekjyUwErCgdhYnPmQjf8eyCwMO79t7h-QrQ3M6w3675MXLIrcG0lI107BtIahQc8jwEzKT5tyuR3MXCPDG6jcgrQFJuSEAzbCIFSkTj-N1aN3vqwpF1Z~FGhqG-4ho3zp7FH72GpwnAwpzAiPJgwUDg2iIePifg__"
+    }
+  }
+]
