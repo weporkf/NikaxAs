@@ -18,4 +18,11 @@
       font-display: swap;
       src: url('/assets/font/NotoSerif-VariableFont_wdth\,wght.ttf') format('truetype');
   }
+  @font-face {
+    font-family: 'MonteCarlo';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/assets/font/MonteCarlo-Regular.ttf') format('truetype');
+}
 }

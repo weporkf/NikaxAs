@@ -4,6 +4,10 @@
       <div class="flex gap-10">
         <div class="flex items-center">
           <IconsLogo />
+          <div class="px-3">
+            <span class="font-noto-serif text-2xl text-white">AS</span>
+            <span class="font-monteCarlo text-2xl text-yellow-300">groupe</span>
+          </div>
         </div>
         <div class="flex">
           <div class="flex items-center">

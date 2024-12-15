@@ -13,7 +13,7 @@ export default {
       fontFamily: {
         montserrat: '"Montserrat", sans-serif',
         'noto-serif': '"NotoSerif", sans-serif',
-        monteCario: '"MonteCarlo", sans-serif',
+        monteCarlo: '"MonteCarlo", sans-serif',
       },
       fontSize: {
         base: ['16px', { lineHeight: '20px' }],
