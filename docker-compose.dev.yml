@@ -1,0 +1,27 @@
+version: '3'
+services:
+    app:
+        build:
+            context: .
+            dockerfile: ./Dockerfile
+        container_name: nikaas-web-dev
+        restart: unless-stopped
+        ports:
+            - '3001:3001'
+        environment:
+            - TZ=Europe/Moscow
+        labels:
+            - 'traefik.enable=true'
+            - 'traefik.docker.network=traefiknetwork'
+            - 'traefik.http.routers.web.entrypoints=https'
+            - 'traefik.http.services.web.loadbalancer.server.port=3001'
+            - 'traefik.http.routers.web.rule=Host(`dev.genevo.ai`)'
+            - 'traefik.http.routers.web.tls.certresolver=letsEncrypt'
+        networks:
+            - traefiknetwork
+
+networks:
+    traefiknetwork:
+        name: traefiknetwork
+        driver: bridge
+        external: true
