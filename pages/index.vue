@@ -1,8 +1,11 @@
 <template>
-  <div class="content-box">
+  <div class="flex flex-col gap-2">
     <MoleculesHeader />
-    <MoleculesCardlist />
-    <MoleculesFooter />
+
+    <div class="content-box xl:max-w-[1200px] lg:max-w-[922px]">
+      <MoleculesCardlist />
+      <MoleculesFooter />
+    </div>
   </div>
 </template>
 

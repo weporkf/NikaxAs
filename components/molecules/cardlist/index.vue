@@ -1,5 +1,5 @@
 <template>
-  <div class="grid grid-cols-2 gap-5">
+  <div class="grid grid-cols-2 gap-4">
     <AtomesCard
       v-for="(property, idx) in properties"
       :key="idx"
@@ -21,14 +21,14 @@ interface Props {
     postal: string;
   };
   price_per_day: string;
-  bedrooms: number;
-  bathrooms: number;
-  repair: string;
-  area: string;
+  bedrooms?: number;
+  bathrooms?: number;
+  repair?: string;
+  area?: string;
   img: string;
 }
 
-const props = defineProps<Props>();
+const props = defineProps<Partial<Props>>();
 </script>
 
 <style scoped></style>
