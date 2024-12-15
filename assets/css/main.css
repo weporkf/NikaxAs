@@ -16,7 +16,7 @@
       font-style: normal;
       font-weight: 600;
       font-display: swap;
-      src: url('/assets/font/NotoSerif-VariableFont_wdth\,wght.ttf') format('truetype');
+      src: url('/assets/font/NotoSerif-VariableFont.ttf') format('truetype');
   }
   @font-face {
     font-family: 'MonteCarlo';

@@ -8,8 +8,8 @@
           class="rounded-t-md size-full"
         />
       </div>
-      <div class="py-3 px-5">
-        <div class="">
+      <div class="py-3 px-5 flex flex-col gap-1">
+        <div class="sm-text flex flex-col gap-1">
           <span class="font-semibold text-xl font-noto-serif">{{
             property.property.type
           }}</span>
@@ -27,23 +27,32 @@
             }}</span>
             в сутки
           </div>
-          <div class="flex gap-1 flex-col text-montserrat">
+          <div class="py-1 text-montserrat scroll-container">
             <div class="flex gap-1">
-              <div class="bg-paramsBgColor px-[5px] rounded">
+              <div
+                class="bg-paramsBgColor px-[5px] rounded flex flex-nowrap items-center"
+              >
                 <span class="text-cardParamsColor">Спальни: </span
                 >{{ property.property.bedrooms }}
               </div>
-              <div class="bg-paramsBgColor px-[5px] rounded">
+              <div
+                class="bg-paramsBgColor px-[5px] rounded flex flex-nowrap items-center"
+              >
                 <span class="text-cardParamsColor">Сан-узлы: </span
                 >{{ property.property.bathrooms }}
               </div>
             </div>
             <div class="flex gap-1 text-montserrat">
-              <div class="bg-paramsBgColor px-[5px] rounded">
-                <span class="text-cardParamsColor">Ремонт: </span
+              <div
+                class="bg-paramsBgColor px-[5px] rounded flex flex-nowrap items-center"
+              >
+                <span class="text-cardParamsColor flex flex-nowrap"
+                  >Ремонт: </span
                 >{{ property.property.repair }}
               </div>
-              <div class="bg-paramsBgColor px-[5px] rounded">
+              <div
+                class="bg-paramsBgColor px-[5px] rounded flex flex-nowrap items-center"
+              >
                 <span class="text-cardParamsColor">Площадь: </span>
                 {{ property.property.area }}
               </div>
@@ -60,5 +69,23 @@ defineProps<{ property: any }>();
 </script>
 
 <style scoped>
-@media (1);
+@media screen and (max-width: 320px) {
+  .sm-text {
+    font-size: 13px;
+    line-height: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .scroll-container {
+    display: flex;
+    flex-wrap: nowrap; /* Запрещаем перенос элементов */
+    overflow-x: auto; /* Добавляем горизонтальный скролл */
+    gap: 10px; /* Расстояние между элементами */
+  }
+
+  .scroll-container > .flex {
+    flex-shrink: 0; /* Запрещаем сжатие вложенных flex-элементов */
+  }
+}
 </style>

@@ -20,4 +20,10 @@
   padding: 0 40px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+  .content-box {
+    padding: 0 20px;
+  }
+}
 </style>

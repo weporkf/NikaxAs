@@ -1,5 +1,5 @@
 <template>
-  <div class="grid grid-cols-2 gap-4">
+  <div class="grid grid-cols-2 gap-4 mobilev">
     <AtomesCard
       v-for="(property, idx) in properties"
       :key="idx"
@@ -31,4 +31,10 @@ interface Props {
 const props = defineProps<Partial<Props>>();
 </script>
 
-<style scoped></style>
+<style scoped>
+@media screen and (max-width: 481px) {
+  .mobilev {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+}
+</style>
