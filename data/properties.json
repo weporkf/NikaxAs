@@ -1,190 +1,337 @@
 [
   {
-    "property": {
-      "type": "3-комн квартира",
-      "address": {
-        "street": "Олимпийская улица, 10",
-        "village": "село Засечное",
-        "district": "Засечный сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440514"
-      },
-      "price_per_day": "3600 ₽",
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "repair": "Дизайнерский",
-      "area": "64 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "1800₽",
+      "weekend": "2000₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3866-6263-4030-a434-396430316632/IMG-20240730-WA0017.jpg",
+      "https://static.tildacdn.com/tild6164-3439-4434-b531-363331303864/IMG-20240730-WA0020.jpg",
+      "https://static.tildacdn.com/tild3863-3432-4664-b563-636363613435/IMG-20240730-WA0019.jpg",
+      "https://static.tildacdn.com/tild3232-6133-4530-b839-353330666238/IMG-20240730-WA0021.jpg",
+      "https://static.tildacdn.com/tild3733-6333-4162-b338-663663343632/IMG-20240730-WA0022.jpg",
+      "https://static.tildacdn.com/tild6134-3838-4266-b530-356335323563/IMG-20240730-WA0018.jpg",
+      "https://static.tildacdn.com/tild3866-6263-4030-a434-396430316632/IMG-20240730-WA0017.jpg",
+      "https://static.tildacdn.com/tild6164-3439-4434-b531-363331303864/IMG-20240730-WA0020.jpg"
+    ],
+    "tags": [
+      "Площадь: 24м2",
+      "Балкон: 5 м2",
+      "Большая парковочная зона, непосредственно рядом с домом",
+      "Двор оснащен большой детской площадкой",
+      "В 7 минутах ходьбы красивая набережная Парка Спутника",
+      "Рядом множество магазинов и кафе",
+      "Остановка напротив дома для выезда в город и аэропорт"
+    ]
   },
   {
-    "property": {
-      "type": "2-комн квартира",
-      "address": {
-        "street": "Ленина улица, 15",
-        "village": "село Никольское",
-        "district": "Никольский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440520"
-      },
-      "price_per_day": "2800 ₽",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "repair": "Косметический",
-      "area": "45 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "1800₽",
+      "weekend": "2000₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3133-3130-4961-a465-323331306533/IMG-20240730-WA0014.jpg",
+      "https://static.tildacdn.com/tild3265-3865-4365-b765-663238333966/IMG-20240730-WA0011.jpg",
+      "https://static.tildacdn.com/tild6139-3766-4364-a335-393137373735/IMG-20240730-WA0015.jpg",
+      "https://static.tildacdn.com/tild3565-3863-4166-b832-376161353930/IMG-20240730-WA0013.jpg",
+      "https://static.tildacdn.com/tild3630-6233-4739-a539-623962383532/IMG-20240730-WA0012.jpg",
+      "https://static.tildacdn.com/tild3366-6333-4766-b936-653034393663/IMG-20240730-WA0016.jpg",
+      "https://static.tildacdn.com/tild3133-3130-4961-a465-323331306533/IMG-20240730-WA0014.jpg",
+      "https://static.tildacdn.com/tild3265-3865-4365-b765-663238333966/IMG-20240730-WA0011.jpg"
+    ],
+    "tags": [
+      "Площадь: 28м2",
+      "Балкон: 5 м2",
+      "В 5 минутах ходьбы красивая набережная Парка Спутника",
+      "Недалеко от дома крытый бассейн «Дельфин»",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Остановка напротив дома для выезда в город и аэропорт"
+    ]
   },
   {
-    "property": {
-      "type": "4-комн квартира",
-      "address": {
-        "street": "Советская улица, 5",
-        "village": "село Кондоль",
-        "district": "Кондольский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440530"
-      },
-      "price_per_day": "4500 ₽",
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "repair": "Евроремонт",
-      "area": "85 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "2000₽",
+      "weekend": "2500₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3130-3834-4162-a235-383638663261/IMG-20240730-WA00071.jpg",
+      "https://static.tildacdn.com/tild3463-6461-4232-a639-616666333563/IMG-20240730-WA0004.jpg",
+      "https://static.tildacdn.com/tild6139-6632-4339-b664-333830333564/IMG-20240730-WA0009.jpg",
+      "https://static.tildacdn.com/tild3865-6435-4334-a665-303039636539/IMG-20240730-WA0010.jpg",
+      "https://static.tildacdn.com/tild6239-6263-4735-b663-346431623861/1722775409696.jpg",
+      "https://static.tildacdn.com/tild6538-6364-4564-b465-376339336336/IMG-20240806-WA00531.jpg",
+      "https://static.tildacdn.com/tild3535-6138-4164-b364-323965316663/IMG-20240730-WA0008.jpg",
+      "https://static.tildacdn.com/tild3130-3834-4162-a235-383638663261/IMG-20240730-WA00071.jpg",
+      "https://static.tildacdn.com/tild3463-6461-4232-a639-616666333563/IMG-20240730-WA0004.jpg"
+    ],
+    "tags": [
+      "Площадь: 35 м2",
+      "Балкон: 5 м2",
+      "Двор оснащен большой закрытой детской площадкой",
+      "Парковочные места рядом с домом, где ведется постоянное видеонаблюдение",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Остановка напротив дома для выезда в город и аэропорт"
+    ]
   },
   {
-    "property": {
-      "type": "Студия",
-      "address": {
-        "street": "Мира улица, 20",
-        "village": "село Богословка",
-        "district": "Богословский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440540"
-      },
-      "price_per_day": "2000 ₽",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "repair": "Дизайнерский",
-      "area": "30 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "2500₽",
+      "weekend": "3000₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6631-6135-4530-a535-326434663164/IMG-20240731-WA0037_.jpg",
+      "https://static.tildacdn.com/tild3864-3333-4066-b165-376636306630/IMG-20240731-WA0036_.jpg",
+      "https://static.tildacdn.com/tild3234-3765-4136-b932-663566356531/IMG-20240731-WA0039_.jpg",
+      "https://static.tildacdn.com/tild3261-6139-4236-a462-613664346132/IMG-20240731-WA0040_.jpg",
+      "https://static.tildacdn.com/tild3966-3034-4366-a632-396161646431/IMG-20240731-WA0041_.jpg",
+      "https://static.tildacdn.com/tild6532-3663-4963-a262-643737613034/IMG-20240731-WA0038_.jpg",
+      "https://static.tildacdn.com/tild6631-6135-4530-a535-326434663164/IMG-20240731-WA0037_.jpg",
+      "https://static.tildacdn.com/tild3864-3333-4066-b165-376636306630/IMG-20240731-WA0036_.jpg"
+    ],
+    "tags": [
+      "Площадь: 56м2",
+      "Две лоджии по 5 м2",
+      "В 3 минутах ходьбы красивая набережная Парка Спутника",
+      "Недалеко от дома крытый бассейн «Дельфин»",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Остановка напротив дома для выезда в город и аэропорт"
+    ]
   },
   {
-    "property": {
-      "type": "Дом",
-      "address": {
-        "street": "Пушкина улица, 8",
-        "village": "село Чемодановка",
-        "district": "Чемодановский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440550"
-      },
-      "price_per_day": "5000 ₽",
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "repair": "Капитальный",
-      "area": "120 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "1900₽",
+      "weekend": "1900₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6365-3066-4535-b532-346562616336/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6533-3036-4036-b138-373766623733/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3862-6436-4035-b864-353465333664/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6363-6561-4265-b630-383666643834/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6238-3938-4764-a564-666230643631/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6530-6238-4535-b432-626261333437/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3535-6561-4236-a332-626232636336/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6130-3139-4433-b162-323261616566/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3961-3736-4939-a535-356231373633/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3936-3037-4134-a438-363061346663/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6365-3066-4535-b532-346562616336/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6533-3036-4036-b138-373766623733/WhatsApp_Image_2024-.jpeg"
+    ],
+    "tags": [
+      "10 этаж",
+      "Площадь: 28м2",
+      "Балкон: 5м2",
+      "В 10 минутах ходьбы красивая набережная Парка Спутника",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Новый дом, евро ремонт, современная мебель, бытовая техника"
+    ]
   },
   {
-    "property": {
-      "type": "1-комн квартира",
-      "address": {
-        "street": "Садовая улица, 12",
-        "village": "село Ленино",
-        "district": "Ленинский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440560"
-      },
-      "price_per_day": "1500 ₽",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "repair": "Косметический",
-      "area": "35 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "2500₽",
+      "weekend": "2500₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6135-6632-4464-b863-363333356561/photo_6_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3431-3032-4662-a262-643034666239/photo_7_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild6332-6532-4639-b936-356339353533/photo_4_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild6336-6463-4536-b938-393932346230/photo_3_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3732-6634-4561-b763-396464646435/photo_1_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3134-3861-4436-b565-663130316363/photo_2_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3965-3563-4538-a438-633333303961/photo_5_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3130-3666-4531-a233-373537373939/photo_8_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild6238-3164-4265-b931-356235393034/photo_9_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild6135-6632-4464-b863-363333356561/photo_6_2024-09-09_1.jpg",
+      "https://static.tildacdn.com/tild3431-3032-4662-a262-643034666239/photo_7_2024-09-09_1.jpg"
+    ],
+    "tags": [
+      "Площадь: 32м2, балкон: 5м2",
+      "10 этаж",
+      "В 10 минутах ходьбы красивая набережная Парка Спутника",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Новый дом, евро ремонт, современная мебель, бытовая техника",
+      "Цена указана за двух проживающих"
+    ]
   },
   {
-    "property": {
-      "type": "5-комн квартира",
-      "address": {
-        "street": "Центральная улица, 1",
-        "village": "село Новое",
-        "district": "Новосельский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440570"
-      },
-      "price_per_day": "6000 ₽",
-      "bedrooms": 5,
-      "bathrooms": 3,
-      "repair": "Евроремонт",
-      "area": "150 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "1900₽",
+      "weekend": "1900₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6365-3262-4230-b464-383335303039/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6461-3638-4932-a635-303432383236/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6635-6238-4132-a461-343038373861/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6232-3430-4939-b434-356430333132/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6434-6535-4231-b662-373662326138/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3539-3636-4638-a533-623133393835/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6261-6563-4735-b433-366561393436/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3235-3435-4236-b261-383130653066/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3831-3037-4235-a266-633334366461/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6365-3262-4230-b464-383335303039/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6461-3638-4932-a635-303432383236/WhatsApp_Image_2024-.jpeg"
+    ],
+    "tags": [
+      "Площадь: 42м2 , балкон 5 м2",
+      "5 этаж",
+      "В 5 минутах ходьбы красивая набережная Парка Спутника",
+      "В 3 минутах ходьбы крытый бассейн «Дельфин»",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Недалеко находится теннисный корт, ТРЦ «Лев»"
+    ]
   },
   {
-    "property": {
-      "type": "Коттедж",
-      "address": {
-        "street": "Лесная улица, 3",
-        "village": "село Лесное",
-        "district": "Лесной сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440580"
-      },
-      "price_per_day": "7000 ₽",
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "repair": "Дизайнерский",
-      "area": "200 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-    }
+    "type": "",
+    "prices": {
+      "default": "2200₽",
+      "weekend": "2200₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3763-3661-4333-a335-633164366339/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3235-3830-4137-b939-623161303639/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6163-6533-4564-a431-636462663938/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3636-3839-4461-a535-323565623033/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3632-6432-4234-a431-343864356263/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6333-3331-4139-a634-626632343535/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild6238-6439-4331-a135-366230376631/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3837-6335-4432-a237-346165373036/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3839-3236-4331-a333-323632366538/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3462-3531-4730-a639-613833363936/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3763-3661-4333-a335-633164366339/WhatsApp_Image_2024-.jpeg",
+      "https://static.tildacdn.com/tild3235-3830-4137-b939-623161303639/WhatsApp_Image_2024-.jpeg"
+    ],
+    "tags": [
+      "Площадь: 38м2 , балкон 5 м2",
+      "7 этаж",
+      "В 5 минутах ходьбы красивая набережная Парка Спутника",
+      "В 3 минутах ходьбы крытый бассейн «Дельфин»",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Недалеко находится теннисный корт, ТРЦ«Лев»"
+    ]
   },
   {
-    "property": {
-      "type": "2-комн квартира",
-      "address": {
-        "street": "Кирова улица, 25",
-        "village": "село Старое",
-        "district": "Старосельский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440590"
-      },
-      "price_per_day": "3200 ₽",
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "repair": "Косметический",
-      "area": "50 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-
-    }
+    "type": "",
+    "prices": {
+      "default": "2000₽",
+      "weekend": "2000₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6631-3139-4361-a537-656530373639/photo_3_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3334-3937-4236-b235-323836326139/photo_1_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild6336-3130-4937-b361-313366666236/photo_2_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild6631-3139-4361-a537-656530373639/photo_3_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3334-3937-4236-b235-323836326139/photo_1_2024-10-10_2.jpg"
+    ],
+    "tags": [
+      "Площадь: 28 м²",
+      "Балкон 4м²:",
+      "В 10 минутах ходьбы красивая набережная Парка Спутника",
+      "Недалеко от дома крытый бассейн «Дельфин»",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Остановка около дома для выезда в город"
+    ]
   },
   {
-    "property": {
-      "type": "Студия",
-      "address": {
-        "street": "Новая улица, 7",
-        "village": "село Новоселки",
-        "district": "Новосельский сельсовет",
-        "region": "Пензенский район",
-        "postal_code": "440600"
-      },
-      "price_per_day": "1800 ₽",
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "repair": "Дизайнерский",
-      "area": "28 м.кв.",
-      "img": "https://s3-alpha-sig.figma.com/img/f85c/a549/d171d56d30f643f0f50fc9e410173e47?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S7F5q~D7FcHFuEIq-hq9ccJVTABJOe7wxXfXOu2IOfA~zgHhhRGU6EZy3ZWksFy3OZDABAmltCfV0ZuJPuwohVD1mEtiFZ3RafVJtT2CFv29b3ACkpsuJbDvNb7vhssK1-AAKDQIV6al9QWmka5US2qOULv2bzppLAGaD-9yMAceCs1nrTgUfHyGCcXJXT9JT6lgqzNlMxT5LoUjLkRjSn66Z69FEItxqy9ynm-T~F38YkOJdQcXvWIPvCannXtvTTh4MZZ2baoW0el87ETc2~bm7JjZQrXOt6~RI89BZkXaYij6atQf4gBqbVXMktY11lnipXZ8falnsnCvzgiPHA__"
-    }
+    "type": "",
+    "prices": {
+      "default": "1800₽",
+      "weekend": "2000₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild6439-6430-4338-b839-383663613562/photo_6_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6563-6337-4633-b131-303530356530/photo_5_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6362-6463-4162-b662-313333313165/photo_3_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild3032-3436-4131-b463-343535383932/photo_1_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6362-6536-4565-b966-326261306264/photo_7_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild3465-6533-4031-b062-373163613730/photo_2_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6437-3732-4834-b162-663666303366/photo_4_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6439-6430-4338-b839-383663613562/photo_6_2024-10-04_1.jpg",
+      "https://static.tildacdn.com/tild6563-6337-4633-b131-303530356530/photo_5_2024-10-04_1.jpg"
+    ],
+    "tags": [
+      "Площадь: 30м2",
+      "Район с развитой инфраструктурой, рядом множество магазинов, торговых центров и кафе.",
+      "Оборудована современной мебелью и бытовой техникой.",
+      "Двор оснащен большой детской площадкой",
+      "Большая парковочная зона, непосредственно рядом с домом"
+    ]
+  },
+  {
+    "type": "",
+    "prices": {
+      "default": "2200₽",
+      "weekend": "2200₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3737-3963-4032-a465-343431353832/photo_5_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3230-6334-4531-b139-336634376232/photo_3_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild6433-3230-4730-b038-623632613437/photo_2_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3662-6535-4434-b234-346132306638/photo_1_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3634-3533-4630-a432-633035393236/photo_4_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3737-3963-4032-a465-343431353832/photo_5_2024-10-10_2.jpg",
+      "https://static.tildacdn.com/tild3230-6334-4531-b139-336634376232/photo_3_2024-10-10_2.jpg"
+    ],
+    "tags": [
+      "Площадь: 38м2",
+      "Балкон 5м2",
+      "7 этаж",
+      "Центральный район, развитая инфраструктура",
+      "Дизайнерский ремонт",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Окна выходят на тихий двор. Квартира полностью меблирована и оборудована всей необходимой бытовой техникой"
+    ]
+  },
+  {
+    "type": "",
+    "prices": {
+      "default": "2200₽",
+      "weekend": "2200₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3965-3663-4631-a661-306637383034/photo_6_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3635-3537-4162-a137-653139316564/photo_2_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild6433-3730-4262-a361-376434333361/photo_5_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3132-3835-4465-b335-383333323833/photo_4_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3864-3131-4634-a261-313032646665/photo_3_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3837-3533-4235-b138-656463636365/photo_1_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3965-3663-4631-a661-306637383034/photo_6_2024-10-14_1.jpg",
+      "https://static.tildacdn.com/tild3635-3537-4162-a137-653139316564/photo_2_2024-10-14_1.jpg"
+    ],
+    "tags": [
+      "Площадь: 40м2",
+      "8 этаж",
+      "Развитая инфраструктура",
+      "Дизайнерский ремонт",
+      "Рядом с домом множество магазинов, торговых центров и кафе",
+      "Окна выходят на город, Квартира полностью меблирована и оборудована всей необходимой бытовой техникой"
+    ]
+  },
+  {
+    "type": "",
+    "prices": {
+      "default": "1300₽",
+      "weekend": "1300₽"
+    },
+    "images": [
+      "https://static.tildacdn.com/tild3862-3734-4539-b638-643961303930/photo_3_2024-10-31_0.jpg",
+      "https://static.tildacdn.com/tild3434-3531-4562-a262-303032336238/photo_2024-10-31_09-.jpg",
+      "https://static.tildacdn.com/tild3136-3065-4863-b661-363066303838/photo_2_2024-10-31_0.jpg",
+      "https://static.tildacdn.com/tild6232-6332-4037-b766-306639653635/photo_2024-10-31_09-.jpg",
+      "https://static.tildacdn.com/tild6537-3462-4961-b131-663733323633/photo_1_2024-10-31_0.jpg",
+      "https://static.tildacdn.com/tild3862-3734-4539-b638-643961303930/photo_3_2024-10-31_0.jpg",
+      "https://static.tildacdn.com/tild3434-3531-4562-a262-303032336238/photo_2024-10-31_09-.jpg"
+    ],
+    "tags": [
+      "Уютная квартира",
+      "Чистое постельное бельё, в ванной водонагреватель",
+      "Рядом множество кафе и различной инфраструктуры",
+      "Полностью мебелирована и готова принимать гостей"
+    ]
   }
 ]

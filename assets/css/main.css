@@ -2,27 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer base {
-  @font-face {
-      font-family: 'Montserrat';
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-      src: url('/assets/font/Montserrat-Black.ttf') format('truetype');
-  }
-  @font-face {
-      font-family: 'NotoSerif';
-      font-style: normal;
-      font-weight: 600;
-      font-display: swap;
-      src: url('/assets/font/NotoSerif-VariableFont.ttf') format('truetype');
-  }
-  @font-face {
-    font-family: 'MonteCarlo';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url('/assets/font/MonteCarlo-Regular.ttf') format('truetype');
+    @font-face {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/font/Montserrat-Black.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'NotoSerif';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/font/NotoSerif-VariableFont.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'MonteCarlo';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/font/MonteCarlo-Regular.ttf') format('truetype');
+    }
 }
+
+.w-svw {
+    width: 100% !important;
 }

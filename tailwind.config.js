@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [],
   theme: {
     extend: {
@@ -28,6 +28,7 @@ export default {
         cardParamsColor: '#5F676E',
         paramsBgColor: '#f0f0f0',
         cardBg: '#E9EAEB',
+        primary: '#007AFF',
       },
     },
   },

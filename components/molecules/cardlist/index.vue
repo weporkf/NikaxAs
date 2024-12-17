@@ -1,40 +1,34 @@
 <template>
-  <div class="grid grid-cols-2 gap-4 mobilev">
-    <AtomesCard
-      v-for="(property, idx) in properties"
-      :key="idx"
-      :property="property"
-    />
-  </div>
+    <div class="container mx-auto px-2 sm:px-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <AtomesCard
+                v-for="(property, index) in properties"
+                :key="index"
+                :property="property"
+                :property-id="index"
+            />
+        </div>
+    </div>
 </template>
 
 <script setup lang="ts">
 import properties from '../../../data/properties.json';
 
-interface Props {
-  type: string;
-  address: {
-    street: string;
-    village: string;
-    district: string;
-    region: string;
-    postal: string;
-  };
-  price_per_day: string;
-  bedrooms?: number;
-  bathrooms?: number;
-  repair?: string;
-  area?: string;
-  img: string;
+interface Price {
+    default: string;
+    weekend: string;
 }
 
-const props = defineProps<Partial<Props>>();
+interface Property {
+    type: string;
+    prices: Price;
+    images: string[];
+    tags: string[];
+}
 </script>
 
 <style scoped>
-@media screen and (max-width: 481px) {
-  .mobilev {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-  }
+.container {
+    max-width: 1280px;
 }
 </style>
